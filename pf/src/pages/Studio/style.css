@@ -1,0 +1,119 @@
+.map-container {
+    width: 80%;
+    height: 50vh;
+    margin: auto;
+}
+ 
+.page-button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    border-radius: 0px;
+}
+
+.mb-3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    display: grid;
+    grid-auto-flow: column;
+    grid-row-gap: 10px;
+}
+
+.studio-details-container {
+    text-align: center;
+    margin: auto;
+}
+
+.studio-form-container {
+    text-align: center
+}
+
+.input-group {
+    max-width: 80%;
+    margin: auto;
+}
+
+.btn {
+    max-height: 7ch;
+    max-width: 10ch;
+}
+
+#name-col {
+    width: 40%;
+}
+
+#ad-col {
+    width: 60%;
+}
+
+.studio-list-container {
+    margin: auto;
+    text-align: center;
+    width: 60%;
+}
+
+.table {
+    margin: auto !important;
+    width: 30% !important;
+}
+
+thead {
+    text-align: center;
+}
+
+tbody {
+    text-align: left;
+    padding-left: 2cm;
+}
+
+.studio-image {
+    max-width: 50%;
+    max-height: 300px;
+}
+
+div {
+    margin-bottom: 1rem;
+}
+
+.ms-2 {
+    max-height: 5%;
+    margin-bottom: auto;
+}
+
+table {
+    max-width: 50%;
+    margin: auto;
+}
+
+.class-list {
+    max-width: 20%;
+    margin: auto;
+}
+
+.schedule-list {
+    max-width: 90%;
+    margin: auto;
+}
+
+.react-time-picker {
+    max-height: 40px !important;
+}
+
+.react-date-picker {
+    max-height: 40px !important;
+}
+
+.react-date-picker * {
+    height: auto !important;
+}
+
+.react-time-picker * {
+    height: auto !important;
+}
